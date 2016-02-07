@@ -2,7 +2,7 @@
 	"folders":
 	[
 		{
-			"path": "wwwroot",
+			"path": ".",
 			"name": "FWXDEP",
 			"folder_exclude_patterns":["$$TEMP",".svn",".git","aspnet_client","cgi-bin"]
 		},
