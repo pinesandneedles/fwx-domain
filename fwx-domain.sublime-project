@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"path": "wwwroot",
+			"name": "FWXDEP",
+			"folder_exclude_patterns":["$$TEMP",".svn",".git","aspnet_client","cgi-bin"]
+		},
+		{
+			"path": "../fwx-system/wwwroot",
+			"name": "FWXSYS",
+			"folder_exclude_patterns":["$$TEMP",".svn",".git","aspnet_client","cgi-bin"]
+		}
+	]
+}

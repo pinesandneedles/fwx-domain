@@ -1,0 +1,1828 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"backg",
+				"background-repeat"
+			],
+			[
+				"Con",
+				"Contents"
+			],
+			[
+				"Search",
+				"SearchFieldsReq"
+			],
+			[
+				"nth",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"overflow-",
+				"overflow-y:   (property)"
+			],
+			[
+				"opt",
+				"optgroup	Tag"
+			],
+			[
+				"Else",
+				"ElseIf"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"no",
+				"nowrap  (value)"
+			],
+			[
+				"User",
+				"User-Agent"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"b",
+				"bolder"
+			],
+			[
+				"auto",
+				"auto_proceed"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"Ser",
+				"ServerVariables"
+			],
+			[
+				"tabl",
+				"table-cell  (value)"
+			],
+			[
+				"overflow",
+				"overflow-style:   (property)"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"Update",
+				"UpdateCollection"
+			],
+			[
+				"in",
+				"inline-block  (value)"
+			],
+			[
+				"Then",
+				"Then"
+			],
+			[
+				"Error",
+				"error"
+			],
+			[
+				"backgr",
+				"background:   (property)"
+			],
+			[
+				"sty",
+				"style=  (attribute)"
+			],
+			[
+				"tblENTITY",
+				"tblDEPT_Entity__Folder"
+			],
+			[
+				"background-",
+				"background-image:   (property)"
+			],
+			[
+				"app",
+				"appId"
+			],
+			[
+				"e",
+				"error"
+			],
+			[
+				"s",
+				"style"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"mode",
+				"mode"
+			],
+			[
+				"vali",
+				"valign=  (attribute)"
+			],
+			[
+				"padding",
+				"padding:   (property)"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"mini",
+				"mini"
+			],
+			[
+				"PREPARE",
+				"BO_FORM_FEEDS_Data__Prepare"
+			],
+			[
+				"If",
+				"If"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"al",
+				"align=  (attribute)"
+			],
+			[
+				"pos",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wwwroot/index.asp",
+			"settings":
+			{
+				"buffer_size": 88,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"find",
+				"FindKeyConflicts: Multiple Package Conflicts"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Enable Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"files",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideba",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"sche",
+				"ColorSchemeSelector: Previous Color Scheme"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"colo",
+				"Color picker"
+			],
+			[
+				"mi",
+				"Minify Javascript to file"
+			],
+			[
+				"mini",
+				"Minify Javascript to file"
+			],
+			[
+				"m",
+				"Minify Javascript to file"
+			],
+			[
+				"minify",
+				"Minify Javascript to file"
+			],
+			[
+				"min",
+				"Minify Javascript"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 187.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Websites/fynewo/fwx101/.gitignore",
+		"/C/Websites/fynewo/fwx101/ServiceDefinition.csdef",
+		"/C/Websites/fynewo/fwx101/wwwroot/web.config",
+		"/C/Websites/fynewo/fwx101/git-reset.bat",
+		"/C/Websites/fynewo/fwx101/install.cmd",
+		"/C/Websites/fynewo/fwx101/fynewo-fwx101.sublime-project",
+		"/C/Websites/fynewo/fwx101/package.json",
+		"/C/Websites/fynewo/fwx101/bower.json",
+		"/C/Websites/fynewo/fwx101/wwwroot/500.asp",
+		"/C/Websites/fynewo/fwx101/sftp-config.json",
+		"/C/Websites/fynewo/fwx101/sftp-config-alt.json",
+		"/C/Websites/fynewo/fwx101/.bowerrc",
+		"/C/Websites/fynewo/fwx101/wwwroot/SETTINGS.asp",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/blog/page.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/page/page.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/page/test.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/blog/blog.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/base/template.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/frontpage/page.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/deploy/deploy.php",
+		"/C/Websites/fynewo/fwx101/wwwroot/deploy/gateway.php",
+		"/C/Websites/fynewo/fwx101/wwwroot/deploy/config.php",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/page/other/test.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/sftp-config.json",
+		"/C/Websites/fynewo/fwx101/wwwroot/.bowerrc",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/base/content.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$themes/marketing/base/head.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/base/header.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/base/footer.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/base/head.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/base/foot.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$themes/marketing/marketing.css",
+		"/C/Websites/fynewo/fwx101/wwwroot/index.asp",
+		"/C/Websites/fynewo/fwx101/wwwroot/404.asp",
+		"/C/Websites/fynewo/fwx101/wwwroot/deploy/README.md",
+		"/C/Websites/fynewo/fwx101/wwwroot/deploy/index.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/a.txt",
+		"/C/Websites/fynewo/fwx101/wwwroot/$themes/pure-layout/blog/blog.css",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/TEMPLATES.txt",
+		"/C/Websites/fynewo/fwx101/wwwroot/$themes/test/base/template.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$themes/pure-layout/blog/index.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/git-reset.bat",
+		"/C/Websites/fynewo/fwx101/wwwroot/deploy/log.txt",
+		"/C/Websites/fynewo/fwx101/wwwroot/deploy/testing.txt",
+		"/C/Websites/fynewo/fwx101/wwwroot/deploy/index.php",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/styles.css",
+		"/C/Websites/fynewo/fwx101/wwwroot/install.asp",
+		"/C/Websites/fynewo/fwx101/wwwroot/sftp-config-alt.json",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/scripts.js",
+		"/C/Websites/fynewo/fwx101/wwwroot/$themes/marketing/base/template.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/base/body.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/base/analytics.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/admin/README.txt",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/TAGS.txt",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/base/meta.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/base/css.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/base/js.html",
+		"/C/Websites/fynewo/fwx101/wwwroot/$domain/theme/base/response.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/fe/html/@/-RESPONSE/htm/xhtml.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/fe/html/@/-RESPONSE/htm/html5.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/fe/html/@/@template.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/fe/html/@/-RESPONSE/htm/head.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/fe/html/@/@head.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/fe/html/@/@css.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/fe/html/@/-RESPONSE/htm/body.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/fe/html/@/@js.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/sftp-config.json",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb/fe/_/Template.asp",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb/fe/_/Process.asp",
+		"/C/Websites/fynewo/fwxcms/fwxcms.sublime-project",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/ButtScratcher.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/$domain/map.txt",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/js/connectors/blockUI.js",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/css/bo.scss",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/js/@/bootstrap.js",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb@def/cms_cls_cfg/CFG.get.asp",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/js/@/DOM/date.js",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb@def/cms/quot/quote/view/unfinished.asp",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/package.json",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb/@/parser/parser/Library.asp",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb/@/library/fso.asp",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb/@/parser/parser/@MERGE.asp",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb@def/cms_cls_cfg/CFG.let.asp",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb@def/cms_cls_cfg/File.asp",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/sftp-config-alt3.json",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/sftp-config-alt4.json",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/sftp-config-alt5.json",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/sftp-config-alt6.json",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/sftp-config-alt7.json",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/sftp-config-alt2.json",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/sftp-config-alt.json",
+		"/C/Users/Diego/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.errors.log",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/minify/min.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/css/bo/login.scss",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/minify/minify-2.1.7/min/groupsConfig.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/minify/minify-2.1.7/min/lib/Minify/CSS/UriRewriter.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/minify/config.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/minify/minify-2.1.7/min/lib/Minify/Controller/Version1.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb@def/cms_cls_ent/manipulation.asp",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/inc/ckeditor/ckeditor_4.x/ckeditor/plugins/pbckcode/dialogs/ace/theme-mono_industrial.js",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/minify/minify-2.1.7/min_unit_tests/_test_files/minify/issue89_out.min.css",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/js/plugins/mWheelIntent/mWheelIntent.js",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/mobile.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/fe/html/@/ACTIONS/Subscribe/request-email.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb/@/data/UpdateRS.asp",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/ua.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/js/jquery/jquery.js",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/js/jquery/jquery.min.js",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/js/jquery/jquery.migrate.js",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/fe/html/@/-RESPONSE/@js/core/jquery.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/bo/html/@/-RESPONSE/@js/core/jquery.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/css/bo/interface.scss",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/git/test2.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/git/pull.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/go-pear/index.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/gzip.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/php/svn/phpsvnclient.php",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/bo/html/#FORMS/shop.Invoices.Components/stats/list/cost-profit-header-i.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/pull.cmd",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/push.cmd",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/bo/html/frame/menu.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb/bo@forms/@FEEDS/Data/process.asp",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/vb/@/Environment/Request/Core.asp",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/js/plugins/MultiFile/MultiFile.js",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/js/plugins/ckeditor/CKEditor.js",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/@@SRC/js/@/DOM/array.js",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/bo/html/@/-RESPONSE/@css/core.html",
+		"/C/Websites/fynewo/fwxcms/wwwroot/fwx/bo/html/@/-RESPONSE/@js/core.html"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Websites\\fynewo\\fwx101\\wwwroot",
+			"C:\\Websites\\fynewo\\fwx101\\wwwroot\\deploy",
+			"C:\\Websites\\fynewo\\fwx101\\wwwroot",
+			"C:\\Websites\\fynewo\\fwx101\\wwwroot\\deploy",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\fe",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb@def",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb@def",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\php",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\bo@forms",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\inc\\ckeditor",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\inc\\ckfinder\\ckfinder_asp_2.x\\ckfinder",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\js",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\css",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\fe",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\js",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\js",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC,C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\fe",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo\\html\\config\\site\\Internal",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@\\parser",
+			"<open files>",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"<open files>",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@\\FWX",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\js",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\css",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\php\\minify",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\css",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo\\html\\#FORMS",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\js",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@\\3rdparty\\Google.Analytics.asp,C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@\\3rdparty\\Google.Checkout.asp,C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@\\3rdparty\\Google.Data.asp,C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@\\3rdparty\\Google.OpenID.asp,C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@\\3rdparty\\Google.asp",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@\\3rdparty",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\js",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo,C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\fe",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@\\parser",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\fe",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\fe",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\fe\\_",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\fe",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\fe",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo,C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\fe",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\fe",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo\\html\\quotes",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\bo\\quotes",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\bo\\quotes\\editor\\services",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo\\html\\#FORMS",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\fe",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\js",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\fe\\_",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\bo",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC\\vb\\@\\parser",
+			"C:\\Websites\\fynewo\\fwxcms\\wwwroot\\fwx\\@@SRC"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"only-code",
+			"only-roses-com",
+			"bootstrap",
+			"This is the default template",
+			"bitbu",
+			"$deployLocation = $DEPLOY[ $repository ];",
+			"deployBranch",
+			"$DEPLOY[ $repository ]",
+			"$o->repository->slug",
+			"slug",
+			"commit file",
+			"center",
+			".json",
+			"BitBucket",
+			"dirname",
+			"mkdir",
+			"commitsFilenamePrefix",
+			"processed",
+			"cptree",
+			"/",
+			"date('Y",
+			"deployBranch",
+			"cptree",
+			"loginfo(\"\\n",
+			"SETUP",
+			"date(",
+			"START @",
+			"log.txt",
+			"branchUrl",
+			"syncChanges",
+			"baseUrl",
+			"DEPLOY",
+			"TEAM_MAPPING",
+			"wwwroot/",
+			"REQUEST",
+			"Finished deploying",
+			"branch",
+			"Fyneworks.com",
+			"&amp;",
+			"commitsFolder",
+			"team",
+			":\n",
+			"FWX.Setting",
+			"FWX.Setting(\"legacy\")",
+			"-RESPONSE",
+			"n FileName",
+			"\"url\"",
+			"JOIN tblSHOP_Invoice i WITH (NOLOCK) ON t.account=i.account",
+			"/\\)\\)\\s+d = Math.floor",
+			"/)) d = Math.floor",
+			"fromString",
+			"is not allowed",
+			"'DBG \"CFG",
+			"FRESH RESOLVE",
+			"_@.css",
+			"#bo-login-form .row label span",
+			".migrate.js",
+			"#bo-menu",
+			"<a href=\"#\">Website</a>",
+			"not found",
+			"<!--[ [iif a='$ #bootstrap:yn$'",
+			"#bootstrap:yn$'",
+			"THIS IS NO LONGER NECESSARY WITH BOOTSTRAP",
+			"event.returnValue",
+			"clearCustomData",
+			"thumbn",
+			"thumbnails",
+			"thumb",
+			"= IsMobiledevice",
+			"trigger",
+			"FileAppend",
+			"h404-",
+			"_found",
+			"#404-",
+			"#*404-",
+			"Find_NotFound",
+			"404",
+			"[exec Query.RAWURL]",
+			"reset-class",
+			".reset",
+			"CKEDITOR.instances.[",
+			"n Redirect(",
+			"TEST OK",
+			"<ACTION>NEW</ACTION>",
+			"RW \"",
+			"system cannot find the page you're looking for",
+			"other things",
+			"ther things to tr",
+			".getData()",
+			"destr",
+			"ckeditor",
+			"DontCrunch",
+			"DontTouch",
+			"DontCrunch",
+			"(because of ",
+			"tag_inlist",
+			"-empty",
+			";break;",
+			".val(",
+			"set",
+			"180",
+			"width",
+			"resultsClass",
+			"ac_results",
+			"autocomplete",
+			"google/taxonomy",
+			"GetFiles",
+			"n GetFilesByType",
+			"Cannot find #k# ?#k#?",
+			"Cannot find",
+			"Const BO__FORM__ALIAS__",
+			"BO__ALIAS",
+			"404",
+			"n PermanentRedirect",
+			"Redirect:SAME-LINK? GOT",
+			"FE__Call_Backward_Scoped",
+			"FE__INITIALIZE_FIND:Redirect:",
+			"REDIRECT REQUESTED",
+			"App.CFG",
+			"FE__Page_Flds",
+			"Dim",
+			"FE__Page_Flds",
+			"footer",
+			"custom",
+			"FWX.Setting",
+			"FWX.Settings",
+			"'If IsTest Or DBG.Show Then",
+			"#*bootstrap:yn#"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"domain/theme",
+			"domain",
+			"$repository",
+			"branch",
+			"/wwwroot/",
+			"&",
+			"/i)) d = Math.floor",
+			"/)) d = Math.floor",
+			"DBG \"CFG",
+			"<!-- proposed dynamic bootstrap integration [ [iif a='$ #bootstrap:yn$'",
+			"fof-",
+			"#*h404-",
+			"#404-",
+			"#link#",
+			"CKEDITOR.instances[",
+			"o.Add \"",
+			"DNTouch",
+			"DNCrunch",
+			"DontTouch",
+			"; break;",
+			"Cannot find #k# ?#k#:voz? / #i:voz#",
+			"Const BO__ALIAS__F__",
+			"header",
+			"footer",
+			"If IsTest Or DBG.Show Then",
+			"$#bootstrap:yn$",
+			"[[iif a='#*bootstrap:yn#",
+			"[[iif a='=#bootstrap'",
+			"[[iif a='$#bootstrap",
+			"DontCrunch",
+			"/",
+			"\"",
+			"\",",
+			"js",
+			".scss",
+			"\"",
+			"/",
+			"'",
+			"',",
+			"'@@SRC/js/",
+			"'",
+			"\"",
+			"@import '@/",
+			"/*table*/.CS$1 { border-collapse: separate; border-spacing: $1px; } /* cellspacing=\"$1\" */",
+			"\\\\",
+			"cellspacing=\"\" class=\"CS$1\"",
+			"cellspacing=\"\" class=$2CS$1 ",
+			"api.server",
+			"window['FWX_REPOSITORY']='//#SERVER_NAME#';window['",
+			"(window['FWX_REPOSITORY']||'//'+document.location.hostname+'')",
+			"window['FWX_REPOSITORY']||'//'+document.location.hostname+''",
+			"style=\"width:321px;\" />",
+			"style=\"width:241px;\" />",
+			"size=\"30\" style=\"width:180px;\" />",
+			"size=\"40\" style=\"width:180px;\" />",
+			"40\" style=\"width:260px;\" />",
+			"size=\"40\" style=\"width:160px;\" />",
+			"><i class=\"icon-folder-open\"></i></button>",
+			"The following confirmation was [iif a=\"#*confirmation-disabled#\" y=\"<strong>NOT</strong>\"] sent to '#post-from#':</legend>",
+			"http://code.jquery.com/jquery-migrate-1.2.1.min.js",
+			", job:|job:voz|, opt:|option:voz|, option-",
+			"\"",
+			"",
+			"=\"http://ajax.",
+			"'DBG \"CDN",
+			"<td width=\"5\">[hsp 5]</td>",
+			"<td width=\"60\"",
+			"			<u>",
+			"",
+			"type=\"checkbox\" value=\"y\"/>",
+			"<!--<td width=\"1\">[hsp 1]</td>-->",
+			"<td width=\"1\">[hsp 1]</td>",
+			"",
+			"|#k#:voz|",
+			"<div class=\"Hidden\" id=\"tab-",
+			"UPDATE tblSHOP_Invoice_Item SET product=$1,flag=1 WHERE item=$2 AND product=0",
+			"'",
+			"''",
+			"UPDATE tblSHOP_Invoice_Item SET product=$1,flag=1 WHERE product=0 AND name=\"$2\"",
+			"<div class=\"Hidden\" id=\"tab-",
+			".BO_actualE = \"shop.accounts\"",
+			"InCredit",
+			"InDebt",
+			"#$1s-q#' x='id=#$1s",
+			"reassignquery a='a=compact&ku=y&",
+			"\"$1\"",
+			"",
+			"] AS invoiceNotes, i.private_notes,",
+			"If Not (IsAjax Or IsLocal) Then _",
+			"<option value=\"i.name\"[exec isselected(\"i.name\", query.data(\"_group\"))]>Invoice ID</option>",
+			"ftr",
+			"fld",
+			"&stakeholder=|email|&ku=y&",
+			"valign=\"bottom",
+			"rT",
+			"loss",
+			"gain",
+			"[ccur",
+			"data-m=\"#m#\" data-a=\"#a#\" id=\"#fid#-here\"",
+			"<!--<option value=\"i.name\"[exec isselected(\"i.name\", query.data(\"_group\"))]>Invoice ID</option>-->",
+			"hours",
+			"datediff(hh,min(date),",
+			"AccountListAction",
+			"a class=\"date-picker\" href",
+			"t.active",
+			"GROUP BY ",
+			".Group = \"GROUP BY t.active\"",
+			"/*t.site*/",
+			", i.date, i.site, 1 active",
+			", i.date, 1 active",
+			"select",
+			", i.merchant, i.stockist, i.mode, i.folder, i.account, i.invoice, i.date",
+			"t.",
+			", i.merchant, i.stockist, i.mode, i.folder, i.account",
+			"ku=y&NoOrphans=y",
+			",t.$1:number:c-",
+			"amount",
+			"transaction",
+			"i=$.cookie('pos-'+n); if(i) o.val(i);",
+			"j(\"echo\")",
+			"if($('input[name=ku]',f).val()=='')",
+			".replace(/&+/gi,'&').replace(/\\?&/gi,'?')",
+			"[SKIP_",
+			"=",
+			"#",
+			"t.status:exact:c-list:s-",
+			"vehicle",
+			"folders:'#f#',i:'-',action:'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wwwroot/index.asp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"WordCountSyntax": "html-asp",
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ASP/HTML-ASP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "fwx-domain.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"butts",
+				"php\\ButtScratcher.php"
+			],
+			[
+				"min.php",
+				"php\\minify\\min.php"
+			],
+			[
+				"urirewr",
+				"php\\minify\\minify-2.1.7\\min\\lib\\Minify\\CSS\\UriRewriter.php"
+			],
+			[
+				"php/git",
+				"php\\git\\pull.php"
+			],
+			[
+				"ckeditor",
+				"js\\plugins\\ckeditor\\CKEditor.js"
+			],
+			[
+				"404.html",
+				"fe\\html\\@\\ERRORS\\404.html"
+			],
+			[
+				"core.htm",
+				"bo\\html\\@\\-RESPONSE\\@js\\core.html"
+			],
+			[
+				"core.html",
+				"bo\\html\\@\\-RESPONSE\\@css\\core.html"
+			],
+			[
+				"string/_load.asp",
+				"@@SRC\\vb\\@\\parser\\tags\\string\\_load.asp"
+			],
+			[
+				"fontello",
+				"inc/fontello/css/fontello.css"
+			],
+			[
+				"lazy.js",
+				"js/connectors/lazy.js"
+			],
+			[
+				"lazy",
+				"js/connectors/lazy.js"
+			],
+			[
+				"robots",
+				"@@SRC/vb/@/Environment/H404/robots.asp"
+			],
+			[
+				"fixhtml",
+				"@@SRC/vb/@/formatting/StringFunctions/FixHtml.asp"
+			],
+			[
+				"list.html",
+				"bo/html/#FORMS/d/standard/list.html"
+			],
+			[
+				"css/core",
+				"bo/html/@/-RESPONSE/@css/core.html"
+			],
+			[
+				"login.html",
+				"bo/html/auth/login.html"
+			],
+			[
+				"cost-pro",
+				"bo/html/#FORMS/shop.Invoices.Components/stats/list/cost-profit.html"
+			],
+			[
+				"current",
+				"bo/html/quotes/pos/people/shipping/current.html"
+			],
+			[
+				"field",
+				"@@SRC/vb@def/cms_cls_ent/fields.get.asp"
+			],
+			[
+				"shop.asp",
+				"@@SRC/vb/bo@forms/entities/shop.asp"
+			],
+			[
+				"summary.html",
+				"fe/html/cart/checkout/summary.html"
+			],
+			[
+				"list-af",
+				"bo/html/#FORMS/d/standard/list-after.html"
+			],
+			[
+				"shop.as",
+				"@@SRC/vb/bo@forms/entities/shop.asp"
+			],
+			[
+				"html.lo",
+				"@@SRC/vb/bo@forms/modules/output/html.loader.asp"
+			],
+			[
+				"list-after",
+				"bo/html/#FORMS/d/standard/list-after.html"
+			],
+			[
+				"list-aft",
+				"bo/html/#FORMS/d/standard/list-after.html"
+			],
+			[
+				"stats",
+				"@@SRC/vb/bo@forms/modules/stats.asp"
+			],
+			[
+				"compo",
+				"@@SRC/vb@def/cms/shop/invoices/entity/components.asp"
+			],
+			[
+				"misc.as",
+				"@@SRC/vb/@/library/Misc.asp"
+			],
+			[
+				"list-form",
+				"bo/html/#FORMS/d/standard/list-form.html"
+			],
+			[
+				"inline",
+				"bo/html/Tools/DatePicker/inline-offset.html"
+			],
+			[
+				"overvie",
+				"bo/html/#FORMS/shop.Invoices.Jobs.Commitment/standard/overview.html"
+			],
+			[
+				"inlne",
+				"bo/html/Tools/DatePicker/inline.html"
+			],
+			[
+				"jobs.asp",
+				"@@SRC/vb/bo@forms/entities/shop/jobs.asp"
+			],
+			[
+				"sum-i",
+				"bo/html/#FORMS/shop.Invoices.Jobs.Commitment/standard/overview/sum-i.html"
+			],
+			[
+				"fail",
+				"fe/html/cart/checkout/jobs/fail.html"
+			],
+			[
+				"no-service-options-available",
+				"fe/html/cart/checkout/jobs/no-service-options-available.html"
+			],
+			[
+				"jobs/vi",
+				"@@SRC/vb@def/cms/shop/invoices.jobs/views/view.asp"
+			],
+			[
+				"misc.asp",
+				"@@SRC/vb/@/library/Misc.asp"
+			],
+			[
+				"missing-postcode",
+				"fe/html/cart/checkout/jobs/missing-postcode.html"
+			],
+			[
+				"recon",
+				"@@SRC/vb/bo@forms/modules/reconcile.asp"
+			],
+			[
+				"batch",
+				"@@SRC/vb/bo@forms/modules/output/batch.asp"
+			],
+			[
+				"search/inco",
+				"bo/html/#FORMS/d/standard/search/incoming.html"
+			],
+			[
+				"stay",
+				"js/plugins/stayInWebApp/stayInWebApp.js"
+			],
+			[
+				"util.js",
+				"@@SRC/js/@/fwx/util.js"
+			],
+			[
+				"basket/loo",
+				"bo/html/quotes/pos/basket/items/lookup.html"
+			],
+			[
+				"basket/lookup",
+				"bo/html/quotes/pos/basket/lookup.html"
+			],
+			[
+				"innov",
+				"@@SRC/vb/fe/cart/Pay/Innovate/_load.asp"
+			],
+			[
+				"frame/foo",
+				"bo/html/frame/footer.html"
+			],
+			[
+				"save.as",
+				"@@SRC/vb/bo@forms/@ACTIONS/save.asp"
+			],
+			[
+				"overview",
+				"bo/html/#FORMS/shop.Invoices.Jobs.Commitment/standard/overview.html"
+			],
+			[
+				"innovate.html",
+				"bo/html/#FORMS/shop.Accounts.Transactions/standard/view/innovate.html"
+			],
+			[
+				"shop.accounts.transactions",
+				"bo/html/#FORMS/shop.Accounts.Transactions/standard/edit/full.html"
+			],
+			[
+				"innovate/c",
+				"@@SRC/vb/fe/cart/Pay/Innovate/callback.asp"
+			],
+			[
+				"innova",
+				"@@SRC/vb/fe/cart/Pay/Innovate/_load.asp"
+			],
+			[
+				"standard/list/",
+				"bo/html/#FORMS/d/standard/list/@controls-new.html"
+			],
+			[
+				"datepicker",
+				"bo/html/Tools/DatePicker/inline.html"
+			],
+			[
+				"leader",
+				"bo/html/shop/staff/leaderboard.html"
+			],
+			[
+				"warning",
+				"fe/html/cart/checkout/warnings.html"
+			],
+			[
+				"schedule",
+				"bo/html/invy/services/schedule.html"
+			],
+			[
+				"drivers/d",
+				"bo/html/shop/drivers/driver.html"
+			],
+			[
+				"mapper",
+				"bo/html/Tools/mapper.html"
+			],
+			[
+				"geocod",
+				"bo/html/#FORMS/d/geocoder/list/full-controls.html"
+			],
+			[
+				"scorebo",
+				"bo/html/shop/staff/scoreboard.sql"
+			],
+			[
+				"leaders",
+				"@@SRC/vb@def/cms/shop/_/entity/leaders.asp"
+			],
+			[
+				"leaderboard/",
+				"bo/html/shop/staff/leaderboard/body.html"
+			],
+			[
+				"xero",
+				"bo/html/#FORMS/d/FEEDS/xero.csv/invoice.html"
+			],
+			[
+				"driver",
+				"bo/html/shop/drivers.html"
+			],
+			[
+				"logged",
+				"bo/html/quotes/editor/account/loggedin.html"
+			],
+			[
+				"score",
+				"bo/html/shop/staff/scoreboard.sql"
+			],
+			[
+				"leaderboard",
+				"bo/html/shop/staff/leaderboard.sql"
+			],
+			[
+				"drivers",
+				"bo/html/shop/drivers/list.html"
+			],
+			[
+				"innovate",
+				"@@SRC/vb/fe/cart/Pay/Innovate/_load.asp"
+			],
+			[
+				"inov",
+				"bo/html/config/shop/Payments/Innovate.html"
+			],
+			[
+				"colli",
+				"bo/html/quotes/editor/collission-defence.html"
+			],
+			[
+				"live/login",
+				"@@SRC/vb@def/cms/live/visitor/functions/login.asp"
+			],
+			[
+				"xero/in",
+				"bo/html/#FORMS/d/FEEDS/xero.csv/invoice.html"
+			],
+			[
+				"xero/tr",
+				"bo/html/#FORMS/d/FEEDS/xero.csv/transaction.html"
+			],
+			[
+				"driver.",
+				"bo/html/shop/drivers/driver.html"
+			],
+			[
+				"xeri",
+				"bo/html/#FORMS/d/FEEDS/xero.csv/invoice.html"
+			],
+			[
+				"conversion",
+				"fe/html/cart/pay/Conversion0.html"
+			],
+			[
+				"sett",
+				"bo/html/quotes/editor/settings.html"
+			],
+			[
+				"lead",
+				"bo/html/shop/staff/leaderboard.sql"
+			],
+			[
+				"assigner",
+				"bo/html/#FORMS/shop.Invoices.Jobs/standard/list/@controls-assigner.html"
+			],
+			[
+				"list/-emp",
+				"bo/html/#FORMS/site.Pages/standard/list-empty.html"
+			],
+			[
+				"controls-n",
+				"bo/html/#FORMS/quote/standard/list/@controls-new.html"
+			],
+			[
+				"process",
+				"@@SRC/vb/bo/quotes/editor/invoice/process.asp"
+			],
+			[
+				"standard/list/new",
+				"bo/html/#FORMS/d/standard/list/@controls-new.html"
+			],
+			[
+				"invoice.items/vi",
+				"@@SRC/vb@def/cms/shop/invoices.items/views/view.asp"
+			],
+			[
+				"stock.asp",
+				"@@SRC/vb@def/cms/invy/product/view/stock.asp"
+			],
+			[
+				"byjob",
+				"@@SRC/vb@def/cms/shop/invoices.items/views/byJob.asp"
+			],
+			[
+				"stock.a",
+				"@@SRC/vb@def/cms/shop/accounts/views/stock.asp"
+			],
+			[
+				"links.h",
+				"bo/html/#FORMS/shop.Invoices/standard/edit/output/links.html"
+			],
+			[
+				"sort",
+				"bo/html/#FORMS/d/stats/search/sort.html"
+			],
+			[
+				"browse",
+				"bo/html/Tools/SQL/generator/definitions/BROWSE__Folder.txt"
+			],
+			[
+				"view-form",
+				"bo/html/#FORMS/d/standard/view-form.html"
+			],
+			[
+				"templates",
+				"@@SRC/vb/@/library/Templates.asp"
+			],
+			[
+				"analyti",
+				"@@SRC/vb/@/parser/tags/3rd/Google/analytics.asp"
+			],
+			[
+				"analytics",
+				"@@SRC/vb/@/parser/tags/3rd/Google/analytics.asp"
+			],
+			[
+				"conversio",
+				"@@SRC/vb/@/parser/tags/3rd/Google/conversions.asp"
+			],
+			[
+				"livequ",
+				"js/plugins/livequery/livequery.js"
+			],
+			[
+				"leaderb",
+				"bo/html/shop/staff/leaderboard.sql"
+			],
+			[
+				"redirect",
+				"@@SRC/vb/@/library/Redirect.asp"
+			],
+			[
+				"settings",
+				"bo/html/quotes/editor/settings.html"
+			],
+			[
+				"detail.html",
+				"bo/html/invy/products/stock/detail.html"
+			],
+			[
+				"monitor",
+				"bo/html/Tools/monitor.html"
+			],
+			[
+				"list/note",
+				"bo/html/#FORMS/d/standard/list/note.html"
+			],
+			[
+				"leaderboar",
+				"bo/html/shop/staff/leaderboard.html"
+			],
+			[
+				"frame/searc",
+				"bo/html/frame/search.html"
+			],
+			[
+				"shop.invoices/standard/lis",
+				"bo/html/#FORMS/shop.Invoices/standard/list/full.html"
+			],
+			[
+				"groupsconf",
+				"php/minify/minify_2.1.3/min/groupsConfig.php"
+			],
+			[
+				"groupcon",
+				"php/minify/minify_2.1.3/min/groupsConfig.php"
+			],
+			[
+				"browse_fo",
+				"bo/html/Tools/SQL/generator/templates/BROWSE__Folder.sql"
+			],
+			[
+				"browse_f",
+				"bo/html/Tools/SQL/generator/templates/BROWSE__Foreign_Folder.sql"
+			],
+			[
+				"geoiploc/l",
+				"php/geoiploc/lookup.php"
+			],
+			[
+				"geoiploc",
+				"@@SRC/vb/@/3rdparty/GeoIpLoc.asp"
+			],
+			[
+				"meta/full",
+				"bo/html/#FORMS/site.Pages/meta/list/full.html"
+			],
+			[
+				"bo.pos",
+				"@@SRC/css/bo/quotes.pos.css"
+			],
+			[
+				"browse__fo",
+				"bo/html/Tools/SQL/generator/templates/BROWSE__Foreign_Folder.sql"
+			],
+			[
+				"brows",
+				"bo/html/Tools/SQL/generator/definitions/BROWSE__Folder.txt"
+			],
+			[
+				"browse_",
+				"bo/html/Tools/SQL/generator/definitions/BROWSE__Folder.txt"
+			],
+			[
+				"visitors.a",
+				"@@SRC/vb@def/cms/live/_/entity/visitors.asp"
+			],
+			[
+				"brow",
+				"bo/html/Tools/SQL/generator/definitions/BROWSE__Foreign_Folder.txt"
+			],
+			[
+				"search/_",
+				"@@SRC/vb/bo/search/_load.asp"
+			],
+			[
+				"browse__",
+				"bo/html/Tools/SQL/generator/definitions/BROWSE__Foreign_Folder.txt"
+			],
+			[
+				"decode.as",
+				"@@SRC/vb@def/cms_cls_ent/decode.asp"
+			],
+			[
+				"generator/s",
+				"bo/html/Tools/SQL/generator/templates/BROWSE__Folder.sql"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "fwx",
+		"selected_items":
+		[
+			[
+				"fwx",
+				"C:\\Websites\\fynewo\\fwxcms\\fwxcms.sublime-project"
+			],
+			[
+				"fyneworks",
+				"C:\\Websites\\fynewo\\fwxlab\\telerik\\fyneworks01\\Fyneworks01.sublime-project"
+			],
+			[
+				"pines",
+				"C:\\Websites\\ecosse\\pinesa\\www\\ecosse-pinesa.sublime-project"
+			],
+			[
+				"tophat",
+				"C:\\Websites\\ncompa\\tophat\\ncompa-tophat.sublime-project"
+			],
+			[
+				"onlyr",
+				"C:\\Websites\\anians\\onlyro-uk\\anians-onlyro.sublime-project"
+			],
+			[
+				"fwxc",
+				"C:\\Websites\\fynewo\\fwxcms\\fwxcms.sublime-project"
+			],
+			[
+				"fyne",
+				"C:\\Websites\\fynewo\\fynewo\\fynewo-fynewo.sublime-project"
+			],
+			[
+				"git",
+				"C:\\Users\\Diego\\AppData\\Roaming\\Sublime Text 3\\Packages\\TortoiseGIT\\TortoiseGIT.sublime-project"
+			],
+			[
+				"",
+				"C:\\Websites\\fynewo\\sublime\\TortoiseGIT\\TortoiseGIT.sublime-project"
+			],
+			[
+				"only",
+				"/C/Websites/anians/onlyro-uk/anians-onlyro.sublime-project"
+			],
+			[
+				"wecl",
+				"/C/Websites/ncompa/weclea/ncompa-weclea.sublime-project"
+			],
+			[
+				"ae",
+				"/C/Websites/anians/onlyro-ae/ANIANS-ONLYRO-AE.sublime-project"
+			],
+			[
+				"123",
+				"/C/Websites/ecosse/123clea/ecosse-123cle.sublime-project"
+			],
+			[
+				"edsg",
+				"/C/Websites/ncompa/edsgar/ncompa-edsgar.sublime-project"
+			],
+			[
+				"anian",
+				"/C/Websites/anians/onlyro-ae/ANIANS-ONLYRO-AE.sublime-project"
+			],
+			[
+				"anin",
+				"/C/Websites/anians/onlyro-ae/ANIANS-ONLYRO-AE.sublime-project"
+			],
+			[
+				"theway",
+				"/C/Websites/ncompa/theway/ncompa-theway-v1.sublime-project"
+			],
+			[
+				"thewa",
+				"/C/Websites/ncompa/theway/ncompa-theway-v1.sublime-project"
+			],
+			[
+				"ani",
+				"/C/Websites/anians/onlyro-uk/anians-onlyro.sublime-project"
+			],
+			[
+				"pine",
+				"/C/Websites/ecosse/pinesa/ecosse-pinesa.sublime-project"
+			],
+			[
+				"thel",
+				"/C/Websites/ecosse/thelon/ecosse-thelon.sublime-project"
+			],
+			[
+				"thelon",
+				"/C/Websites/ecosse/thelon/ecosse-thelon.sublime-project"
+			],
+			[
+				"we",
+				"/C/Websites/ncompa/weclea/ncompa-weclea.sublime-project"
+			],
+			[
+				"the",
+				"/C/Users/Diego/My Work/Websites/ncompa/theway/ncompa-theway.sublime-project"
+			],
+			[
+				"thwa",
+				"/C/Users/Diego/My Work/Websites/ncompa/theway/ncompa-theway.sublime-project"
+			],
+			[
+				"thew",
+				"/C/Users/Diego/My Work/Websites/ncompa/theway/ncompa-theway.sublime-project"
+			],
+			[
+				"onlyro",
+				"/C/Users/Diego/My Work/Websites/anians/onlyro/anians-onlyro.sublime-project"
+			],
+			[
+				"wec",
+				"/C/Users/Diego/My Work/Websites/ncompa/weclea/ncompa-weclea.sublime-project"
+			],
+			[
+				"onl",
+				"/C/Users/Diego/My Work/Websites/anians/onlyro/anians-onlyro.sublime-project"
+			],
+			[
+				"rge",
+				"/C/Users/Diego/My Work/Websites/ncompa/edsgar/ncompa-edsgar.sublime-project"
+			],
+			[
+				"wecle",
+				"/C/Users/Diego/My Work/Websites/ncompa/weclea/ncompa-weclea.sublime-project"
+			],
+			[
+				"ania",
+				"/C/Users/Diego/My Work/Websites/anians/onlyro/anians-onlyro.sublime-project"
+			],
+			[
+				"pi",
+				"/C/Users/Diego/My Work/Websites/ecosse/pinesa/ecosse-pinesa.sublime-project"
+			],
+			[
+				"epos",
+				"/C/Users/Diego/My Work/Websites/ecosse/pinesa/ecosse-pinesa.sublime-project"
+			],
+			[
+				"edsga",
+				"/C/Users/Diego/My Work/Websites/ncompa/edsgar/ncompa-edsgar.sublime-project"
+			],
+			[
+				"th",
+				"/C/Users/Diego/My Work/Websites/ncompa/theway/ncompa-theway.sublime-project"
+			],
+			[
+				"wed",
+				"/C/Users/Diego/My Work/Websites/ncompa/edsgar/ncompa-edsgar.sublime-project"
+			],
+			[
+				"pin",
+				"/C/Users/Diego/My Work/Websites/ecosse/pinesa/ecosse-pinesa.sublime-project"
+			],
+			[
+				"fynew",
+				"/C/Users/Diego/My Work/Websites/fynewo/fynewo/fynewo-fynewo.sublime-project"
+			],
+			[
+				"sky",
+				"/C/Users/Diego/My Work/Websites/ncompa/skysch/ncompa-skysch.sublime-project"
+			],
+			[
+				"pan",
+				"/C/Users/Diego/My Work/Websites/ecosse/panvan/ecosse-PANVAN.sublime-project"
+			],
+			[
+				"on",
+				"/C/Users/Diego/My Work/Websites/anians/onlyro/anians-onlyro.sublime-project"
+			],
+			[
+				"fynw",
+				"/C/Users/Diego/My Work/Websites/fynewo/fynewo/fynewo-fynewo.sublime-project"
+			],
+			[
+				"fynewo",
+				"/C/Users/Diego/My Work/Websites/fynewo/fynewo/fynewo-fynewo.sublime-project"
+			],
+			[
+				"a ",
+				"/C/Users/Diego/My Work/Websites/anians/onlyro/anians-onlyro.sublime-project"
+			],
+			[
+				"an",
+				"/C/Users/Diego/My Work/Websites/anians/onlyro/anians-onlyro.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
